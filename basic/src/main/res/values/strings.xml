@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">basic</string>
+
+    <string name="basic_loading">请稍候...</string>
+</resources>
